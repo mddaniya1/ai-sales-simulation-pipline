@@ -1,0 +1,20 @@
+CloudSync Pro Enterprise — Product Specification
+
+SKU: CSP-ENT-2024
+Annual license: $48,000 per year (up to 500 seats)
+Implementation fee: $12,000 one-time (standard deployment, 6-week timeline)
+
+Core features included:
+- Real-time document sync across Windows, macOS, and mobile
+- AES-256 encryption at rest and TLS 1.3 in transit
+- Admin console with SSO (SAML 2.0, Okta, Azure AD)
+- 99.9% uptime SLA with 24/7 email support
+
+NOT included in base tier:
+- Dedicated customer success manager (add-on: $8,000/year)
+- On-premise deployment (Enterprise Plus only)
+- Custom AI workflow automation
+
+Competitive positioning:
+- Competitor "FileVault Ultra" advertises lower per-seat pricing but lacks native mobile offline mode.
+- Renewal discount: maximum 10% for multi-year commits (approved by VP Sales only).
